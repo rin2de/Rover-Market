@@ -1,0 +1,145 @@
+.container-fluid {
+  background-color: #3F4E4F;
+padding: 7% 15% 0 15%;
+
+}
+
+a {
+  text-decoration: none;
+}
+.font {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+}
+
+.heading {
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-size: 50px;
+}
+
+p {
+  font-family: 'Mouse Memoirs', sans-serif;
+
+  font-size: 30px;
+}
+
+#introduction {
+  text-align: center;
+font-family: 'Mouse Memoirs', sans-serif;
+
+color: #2C3639;
+  background-color: #fff;
+  padding: 7% 7%;
+}
+
+.icon {
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #2C3639;
+  padding: 3%;
+}
+
+.col {
+  padding: 3%;
+}
+
+#pricing {
+  text-align: center;
+  padding: 7% 0 7%;
+
+}
+.card {
+padding: 3%;
+height: 300px;
+width: 300px;
+
+}
+.pname {
+  font-size: 18px;
+}
+.products {
+  height: 100px;
+  width: 100px;
+}
+.right-part {
+  text-align: right;
+
+}
+
+.bike {
+  text-align: center;
+}
+.galary {
+  text-align: center;
+background-color:  #2C3639;
+}
+
+.testimonial-color {
+  width: 900px;
+  height: 450px;
+  padding: 7% 15%;
+}
+.card-body {
+  font-size: 2px;
+}
+.pricing-list {
+border-radius: 100%;
+padding: 0;
+
+}
+.main {
+  color: #fff;
+}
+#tour {
+  background-color: #2C3639;
+padding: 7% 15%;
+text-align: center;
+color: #fff;
+}
+
+#contact {
+  background-color: #2C3639;
+  text-align: center;
+  padding: 7%;
+}
+
+.communicate {
+  padding: 2%;
+  color: #fff;
+  font-size: 50px;
+}
+.copyright {
+  color: #fff;
+  font-size: 20px;
+}
+/* Sign Up page */
+.signup {
+  text-align: center;
+  background-color: #2C3639;
+  text-align: center;
+  color: #fff;
+}
+.btn {
+  color: #fff;
+}
+
+.navbar-brand {
+  font-size: 25px;
+}
+
+.buy {
+  margin: 5px;
+
+}
+
+@media (max-width: 900px) {
+  #pricing {
+    text-align: center;
+  }
+}
